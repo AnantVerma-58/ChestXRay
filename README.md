@@ -1,4 +1,4 @@
-# Pneumonia cases from Chest X-ray Classification
+# Pneumonia Classification
 
 ![](https://i.imgur.com/jZqpV51.png)
 
